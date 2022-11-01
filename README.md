@@ -17,4 +17,4 @@ The area code is required. If the country code is provided, you must confirm tha
 Return true if the string is a valid US phone number; otherwise return false.
 
 ## local development
-Open index.js file in your browser.
+Open index.js file in your browser console.
